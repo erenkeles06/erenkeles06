@@ -1,4 +1,4 @@
-## Hello everybody I'm Eren Keleş and I'm majoring in CS at Bilkent University.
+## Hello everybody I'm Eren Keleş and I'm a CS major at Bilkent University.
 
 <!--
 **erenkeles06/erenkeles06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
