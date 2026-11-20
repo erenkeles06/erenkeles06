@@ -1,4 +1,5 @@
 ## Hello everybody I'm Eren Keleş and I'm a CS major at Bilkent University.
+- [LinkedIn](https://www.linkedin.com/in/eren-kele%C5%9F-256886385/)
 
 <!--
 **erenkeles06/erenkeles06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
